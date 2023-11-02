@@ -1,0 +1,43 @@
+body{
+    background-color: #454545;
+}
+
+
+
+/*Style pour le menu*/
+.titre_menu{
+    font-size: 9em;
+    text-align: center;
+    padding: 0.4em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 0;
+}
+
+.table_menu{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding-bottom: 6em;
+}
+
+.section_menu{
+    text-align: center;
+    font-size: 3em;
+}
+
+.option_menu{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    padding-left: 9%;
+}
+
+.description_menu{
+    padding-left: 10%;
+    font-family:'Segoe UI', sans-serif;
+}
+
+.prix_menu{
+    text-align: left;
+}
