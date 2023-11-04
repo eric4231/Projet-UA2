@@ -105,17 +105,19 @@ main img {
     text-align: center;
     font-size: 3em;
     padding-bottom: 1em;
+    padding-top: 1em;
 }
 
 .option_menu{
     font-family:'Trebuchet MS', sans-serif;
     font-size: 1.5em;
-    padding-left: 9%;
+    padding-left: 7%;
 }
 
 .description_menu{
-    padding-left: 10%;
+    padding-left: 8%;
     font-family:'Segoe UI', sans-serif;
+    padding-bottom: 1.5em;
 }
 
 .prix_menu {
