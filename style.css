@@ -127,6 +127,20 @@ main img {
     font-family: 'Segoe UI', sans-serif; 
 }
 
+/* STYLE SPÉCIAL */
+
+.img_special{
+    max-width: 30%;
+    max-height: auto;
+    border: #005a5a solid 2px ;
+}
+
+.sous_titre_special{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 1.75rem; 
+    margin-top: 1rem; 
+    color: black; 
+}
 
 /* Footer */
 footer {
