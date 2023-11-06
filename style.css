@@ -142,6 +142,31 @@ main img {
     color: black; 
 }
 
+/*Style pour Contact*/
+.formulaire_contact{
+    font-family: 'Segoe UI', sans-serif;
+    color: #005a5a;
+    margin-bottom: 8em;
+}
+
+.formulaire_contact>div>textarea{
+    font-family: 'Segoe UI', sans-serif;
+    color: #005a5a;
+    width: 70em;
+    height: 10em;
+}
+
+.input_sujet{
+    font-family: 'Segoe UI', sans-serif;
+    color: #005a5a;
+    width: 60em;
+}
+
+.bouton_envoyer{
+    width: 5em;
+
+}
+
 /* Footer */
 footer {
     background-color: #333;
