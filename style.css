@@ -154,17 +154,19 @@ main img {
     color: #005a5a;
     width: 70em;
     height: 10em;
+    border-radius: 4;
 }
 
 .input_sujet{
     font-family: 'Segoe UI', sans-serif;
     color: #005a5a;
     width: 60em;
+    border-radius: 4;
 }
 
 .bouton_envoyer{
     width: 5em;
-
+    border-radius: 4;
 }
 
 /* Footer */
