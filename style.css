@@ -76,7 +76,7 @@ main p {
     font-size: 1.25rem; /* Ajuster la taille selon le besoin */
     margin-top: 1rem; /* Ajoute de l'espace au-dessus du paragraphe */
     color: #005a5a; /* Couleur bleue claire pour le texte */
-} 
+}
 
 main img {
     max-width: 100%; /* Rend l'image responsive */
@@ -142,39 +142,41 @@ main img {
     color: black; 
 }
 
-/*Style pour Contact*/
-.formulaire_contact{
+/*inscription*/
+.inscription>div{
+    margin-bottom: 20px;
+}
+
+.label_ins{
     font-family: 'Segoe UI', sans-serif;
-    color: #005a5a;
-    margin-bottom: 8em;
+    font-size: 1.25rem; /* Ajuster la taille selon le besoin */
+    margin-top: 1rem; /* Ajoute de l'espace au-dessus du paragraphe */
+    color: #005a5a; /* Couleur bleue claire pour le texte */
 }
 
-.formulaire_contact>div>textarea{
+.input_ins{
     font-family: 'Segoe UI', sans-serif;
-    color: #005a5a;
-    width: 70em;
-    height: 10em;
+    font-size: 1.25rem; /* Ajuster la taille selon le besoin */
+    margin-top: 1rem; /* Ajoute de l'espace au-dessus du paragraphe */
+    color: #005a5a; /* Couleur bleue claire pour le texte */
+    width: 20em;
 }
 
-.input_sujet{
-    font-family: 'Segoe UI', sans-serif;
-    color: #005a5a;
-    width: 60em;
+
+/* Footer */
+.division{
+    padding-bottom: 34rem;
 }
-
-.bouton_envoyer{
-    width: 5em;
-
-}
-
-Footer 
 footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px 0px;
+    padding: 5em;
     margin: 0px;
-} 
+}
+footer>p{
+    margin-bottom: 18px;
+}
 
 
 /*-----------------------------rejoignez-nous  styles---------------------------*/
@@ -283,7 +285,7 @@ body main .histoire-part1
     display: flex;
 }
 .clsHistoire-partie-gauche {
-    background-image: url("imageHistoire/hamburger.jpg");
+    background-image: url("images/hamburger.jpg");
    padding: 5em;
     margin: 5em;
    height: 500px;
